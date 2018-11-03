@@ -1,2 +1,3 @@
-# hello-world
-第一个项目
+public static void main(String[] args){
+System.out.println("Hello World");
+}
